@@ -1,3 +1,4 @@
+/*
 package br.com.giulianabezerra.springbootcleanarch.main;
 
 import org.springframework.context.annotation.Bean;
@@ -32,3 +33,4 @@ public class UserConfig {
     return new UserDTOMapper();
   }
 }
+*/
